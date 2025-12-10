@@ -1,6 +1,6 @@
-# Understanding human decision-making in repeated prisoner's delimma
+# Understanding human decision-making in repeated social interaction
 
-This is the repository for the code accompanying the report ``understanding human decision-making in repeated prisoner's dilemma'' as a course project for 9.660 Computational Cognitive Science by Professor Joshua Tenenbaum at MIT. The code is developed by Xinling Li (xinli831@mit.edu).
+This is the repository for the code accompanying the report ``understanding human decision-making in repeated social interaction'' as a course project for 9.660 Computational Cognitive Science by Professor Joshua Tenenbaum at MIT. The code is developed by Xinling Li (xinli831@mit.edu).
 
 ## Files
 - `IPD_BSL.ipynb`: Jupyter notebook containing the implementation of the Bayesian State Learning (BSL) model for the repeated prisoner's dilemma.
